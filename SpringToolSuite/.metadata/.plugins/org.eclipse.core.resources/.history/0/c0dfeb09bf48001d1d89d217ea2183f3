@@ -1,0 +1,9 @@
+package com.jeffgomez.projectmanager.models;
+
+public class Task {
+
+	public Task() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

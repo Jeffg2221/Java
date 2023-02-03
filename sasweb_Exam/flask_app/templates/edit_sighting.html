@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- CSS only -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
+    <!--my css-->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+
+    <title>Edit Sighting</title>
+</head>
+<body>
+    
+    <div class="container">
+        <nav class="nav">
+            <h1>Sasquatch Websighting </h1>
+            <h3>{{session['first_name']}} {{session['last_name']}}
+            </h3>
+            <a class="nav-link" href="/dashboard">Dashboard</a>
+            <a class="nav-link" href="/user/logout">Logout</a>
+            
+            </nav>
+
+            <h3>Edit this Sighting :</h3>
+            <form  method="POST" action="/dashboard/edit/{{current_sighting.id}}">
+                <div class="row mb-3">
+                    <label for="colFormLabel" class="col-sm-2 col-form-label">Location:</label>
+                    <input type="text" class="form-control" id="colFormLabel" name="location" value="{{current_sighting.location}}">
+                    {% for message in get_flashed_messages(category_filter = ['error_sightings_location']) %}
+                    {{message}}
+                    {% endfor %}
+                    
+
+                    <div class="form-group">
+                        <label for="exampleFormControlTextarea1">What Happened:</label>
+                        <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" name="what_happened" value="{{current_sightings_what_happened}}">{{current_sighting.what_happened}}</textarea>
+                            {% for message in get_flashed_messages(category_filter = ['error_sightings_what_happened']) %}
+                        {{message}}
+                        {% endfor %}
+                    </div>
+
+
+            <div>
+                <label>
+                    Date Seen:
+                </label>
+                <input type="date"  name="date_seen" value="{{current_sighting.date_seen}}"/>
+            </div>
+            
+            </div>
+                <label  for="colFormLabel" class="col-sm-2 col-form-label"># of Sasquatches:</label>
+                <div class="form-check form-check-inline">
+
+                    <select  name="num_saq" id="" >
+                        <option value="0">0</option>
+                        <option value="1">1</option>
+                        <option value="2">2</option>
+                        <option value="3">3</option>
+                        <option value="4">4</option>
+                        <option value="5">5</option>
+                        <option value="6">6</option>
+                        <option value="7">7</option>
+                        <option value="8">8</option>
+                        <option value="9">9</option>
+                        <option value="10">10</option>
+                    </select>
+                    {% for message in get_flashed_messages(category_filter = ['error_sightings_date_seen']) %}
+                    {{message}}
+                    {% endfor %}
+                </div>
+                <div>
+                <button type="submit" class="btn btn-success">Report</button>
+            </div>
+            </form> 
+    </div>
+    
+</body>
+</html>

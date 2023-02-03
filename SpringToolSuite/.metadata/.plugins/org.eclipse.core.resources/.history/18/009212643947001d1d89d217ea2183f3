@@ -1,0 +1,9 @@
+package com.jeffgomez.dojosAndNinjas.Models;
+
+public class Dojo {
+
+	public Dojo() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

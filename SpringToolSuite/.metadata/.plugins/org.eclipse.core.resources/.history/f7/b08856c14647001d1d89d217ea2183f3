@@ -1,0 +1,9 @@
+package com.jeffgomez.relationships.models;
+
+public class License {
+
+	public License() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

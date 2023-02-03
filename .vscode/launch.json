@@ -1,0 +1,161 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch BookClubApplication",
+            "request": "launch",
+            "mainClass": "com.jeffgomez.bookclub.BookClubApplication",
+            "projectName": "BookClub"
+        },
+        {
+            "type": "java",
+            "name": "Launch DaikichiRoutesApplication",
+            "request": "launch",
+            "mainClass": "com.jeffgomez.daikichi.DaikichiRoutesApplication",
+            "projectName": "DaikichiRoutes"
+        },
+        {
+            "type": "java",
+            "name": "Launch HelloHumanApplication",
+            "request": "launch",
+            "mainClass": "com.jeffgomez.hellohuman.HelloHumanApplication",
+            "projectName": "HelloHuman"
+        },
+        {
+            "type": "java",
+            "name": "Launch HelloWorldApplication",
+            "request": "launch",
+            "mainClass": "com.jeffgomez.helloworld.HelloWorldApplication",
+            "projectName": "HelloWorld"
+        },
+        {
+            "type": "java",
+            "name": "Launch BatTest",
+            "request": "launch",
+            "mainClass": "com.jeffgomez.zookeeper.BatTest",
+            "projectName": "ZooKeeper"
+        },
+        {
+            "type": "java",
+            "name": "Launch GorillaTest",
+            "request": "launch",
+            "mainClass": "com.jeffgomez.zookeeper.GorillaTest",
+            "projectName": "ZooKeeper"
+        },
+        {
+            "type": "java",
+            "name": "Launch BookClubApplication(1)",
+            "request": "launch",
+            "mainClass": "com.jeffgomez.bookclub.BookClubApplication",
+            "projectName": "book-club"
+        },
+        {
+            "type": "java",
+            "name": "Launch BundlerApplication",
+            "request": "launch",
+            "mainClass": "com.jeffgomez.bundler.BundlerApplication",
+            "projectName": "bundler"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "com.careSoft.clinicapp.Test",
+            "projectName": "careSoft"
+        },
+        {
+            "type": "java",
+            "name": "Launch DojosNinjasApplication",
+            "request": "launch",
+            "mainClass": "com.jeffgomez.dojosNinjas.DojosNinjasApplication",
+            "projectName": "dojosNinjas"
+        },
+        {
+            "type": "java",
+            "name": "Launch FullSpringDemoApplication",
+            "request": "launch",
+            "mainClass": "com.jeffgomez.fullSpringDemo.FullSpringDemoApplication",
+            "projectName": "full-spring-demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch DeveloperTest",
+            "request": "launch",
+            "mainClass": "com.jeffgomez.inheritancedemo.DeveloperTest",
+            "projectName": "inheritance-demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch PetTest",
+            "request": "launch",
+            "mainClass": "com.jeffgomez.interfacedemo.PetTest",
+            "projectName": "interfaceDemo"
+        },
+        {
+            "type": "java",
+            "name": "Launch MvcDemoApplication",
+            "request": "launch",
+            "mainClass": "com.jeffgomez.mvcDemo.MvcDemoApplication",
+            "projectName": "mvc-demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch ProjectManagerApplication",
+            "request": "launch",
+            "mainClass": "com.jeffgomez.projectmanager.ProjectManagerApplication",
+            "projectName": "project-manager"
+        },
+        {
+            "type": "java",
+            "name": "Launch RelationshipsApplication",
+            "request": "launch",
+            "mainClass": "com.jeffgomez.dojosAndNinjas.RelationshipsApplication",
+            "projectName": "relationships"
+        },
+        {
+            "type": "java",
+            "name": "Launch RoutesSpringDemoApplication",
+            "request": "launch",
+            "mainClass": "com.jeffgomez.routesspringdemo.RoutesSpringDemoApplication",
+            "projectName": "routes-spring-demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch RoutesSpringdemoApplication",
+            "request": "launch",
+            "mainClass": "com.jeffgomez.routesspringdemo.RoutesSpringdemoApplication",
+            "projectName": "routes-springdemo (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch FruityloopsApplication",
+            "request": "launch",
+            "mainClass": "com.jeffgomez.fruityloops.FruityloopsApplication",
+            "projectName": "routes-springdemo"
+        },
+        {
+            "type": "java",
+            "name": "Launch SaveTravelsApplication",
+            "request": "launch",
+            "mainClass": "com.jeffgomez.saveTravels.SaveTravelsApplication",
+            "projectName": "save-travels"
+        },
+        {
+            "type": "java",
+            "name": "Launch DeveloperTest(1)",
+            "request": "launch",
+            "mainClass": "com.jeffgomez.test.DeveloperTest",
+            "projectName": "test"
+        }
+    ]
+}

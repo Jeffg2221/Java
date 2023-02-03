@@ -1,0 +1,57 @@
+INDEX VERSION 1.131
+/Users/jeffg2221/Documents/Java/SpringToolSuite/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2300116350.index
+/dojosNinjas/src/main/java
+/Users/jeffg2221/Documents/Java/SpringToolSuite/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/4072409803.index
+/routes-springdemo/src/main/java
+/Users/jeffg2221/Documents/Java/SpringToolSuite/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2743568307.index
+/BookClub/src/main/java
+/Users/jeffg2221/Documents/Java/SpringToolSuite/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2294393760.index
+/book-club/src/main/java
+/Users/jeffg2221/Documents/Java/SpringToolSuite/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2789772436.index
+/fruityloops/src/main/java
+/Users/jeffg2221/Documents/Java/SpringToolSuite/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1490860020.index
+/mvc-demo/src/main/java
+/Users/jeffg2221/Documents/Java/SpringToolSuite/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3857586876.index
+/coffee_bets/src/main/java
+/Users/jeffg2221/Documents/Java/SpringToolSuite/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/698562767.index
+/save-travels/src/main/java
+/Users/jeffg2221/Documents/Java/SpringToolSuite/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2188672571.index
+/mvc-demo/src/main/java
+/Users/jeffg2221/Documents/Java/SpringToolSuite/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2041831434.index
+/coffee_bets/src/main/java
+/Users/jeffg2221/Documents/Java/SpringToolSuite/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1619251516.index
+/DaikichiRoutes/src/main/java
+/Users/jeffg2221/Documents/Documents - Jeff’s iMac (2)/Java/SpringToolSuite/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2294393760.index
+/book-club/src/main/java
+/Users/jeffg2221/Documents/Java/SpringToolSuite/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3341580723.index
+/coffee_bets/src/main/java
+/Users/jeffg2221/Documents/Documents - Jeff’s iMac (2)/Java/SpringToolSuite/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3128602765.index
+/book-club/src/main/java
+/Users/jeffg2221/Documents/Java/SpringToolSuite/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1755429194.index
+/coffee_bets/src/main/java
+/Users/jeffg2221/Documents/Java/SpringToolSuite/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2852120879.index
+/mvc-demo/src/main/java
+/Users/jeffg2221/Documents/Java/SpringToolSuite/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3144998048.index
+/bundler/src/main/java
+/Users/jeffg2221/Documents/Java/SpringToolSuite/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3440541254.index
+/bundler/src/main/java
+/Users/jeffg2221/Documents/Documents - Jeff’s iMac (2)/Java/SpringToolSuite/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2129205650.index
+/travelers-with-loginreg/src/main/java
+/Users/jeffg2221/Documents/Documents - Jeff’s iMac (2)/Java/SpringToolSuite/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1280443071.index
+/travelers-with-loginreg/src/main/java
+/Users/jeffg2221/Documents/Java/SpringToolSuite/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/744719904.index
+/coffee_bets/src/main/java
+/Users/jeffg2221/Documents/Documents - Jeff’s iMac (2)/Java/SpringToolSuite/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/4228695541.index
+/book-club/src/main/java
+/Users/jeffg2221/Documents/Java/SpringToolSuite/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3128602765.index
+/book-club/src/main/java
+/Users/jeffg2221/Documents/Java/SpringToolSuite/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2312095629.index
+/bundler/src/main/java
+/Users/jeffg2221/Documents/Java/SpringToolSuite/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/99031784.index
+/relationships/src/main/java
+/Users/jeffg2221/Documents/Java/SpringToolSuite/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/4228695541.index
+/book-club/src/main/java
+/Users/jeffg2221/Documents/Java/SpringToolSuite/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1430573171.index
+/DaikichiRoutes/src/main/java
+/Users/jeffg2221/Documents/Java/SpringToolSuite/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1152413627.index
+/coffee_bets/src/main/java

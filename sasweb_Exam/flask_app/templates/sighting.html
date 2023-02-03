@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- CSS only -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
+    <!--my css-->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <title>View Sighting</title>
+</head>
+<body>
+
+    <div class="container">
+        <h1> Sasquatch Websighting</h1>
+        <h3>{{session['first_name']}}  {{session['last_name']}} </h3>
+
+        <nav class="nav">
+            <a class="nav-link" href="/dashboard">Dashboard</a>
+            <a class="nav-link" href="/user/logout">Logout</a>
+            
+            </nav>
+        
+        <div class="card">
+            <div class="card-header">
+                <h3>{{current_sighting.location}} - {{current_sighting.date_seen}}</h3>
+            </div>
+            <div class="card-body">
+                <h6 class="card-title">What Happened: {{current_sighting.what_happened}}</h6><br>
+                <h6 class="card-title"># of Sasquatches: {{current_sighting.num_saq}} </h6><br>
+
+                    
+                
+            
+            </div>
+            <div class="card-footer text-muted">
+                <h6>
+                    Reported by: {{current_sighting.user.first_name}} {{current_sighting.user.last_name}}
+                </h6>
+            </div>
+        </div>
+        
+        
+    
+
+    </div>   
+</body>
+</html>

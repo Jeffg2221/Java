@@ -1,0 +1,9 @@
+package com.jeffgomez.dojosAndNinjas.services;
+
+public class DojoNinjaService {
+
+	public DojoNinjaService() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

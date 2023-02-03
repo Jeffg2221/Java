@@ -1,0 +1,4 @@
+INDEX VERSION 1.4+/Users/jeffg2221/Documents/Documents - Jeff’s iMac (2)/Java/SpringToolSuite/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+2516909906.index
+1741814140.index
+2578768976.index
